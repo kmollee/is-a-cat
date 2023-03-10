@@ -10,3 +10,31 @@ pinned: false
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+
+## Environment
+
+To production
+
+```
+pip install -r requirements.txt
+```
+
+
+To development
+
+```
+pip install -r requirements_dev.txt
+```
+
+## Train model
+
+```
+python ./train_model.py
+```
+
+## Run
+
+```
+python ./app.py
+```

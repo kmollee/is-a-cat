@@ -1,0 +1,4 @@
+fastbook==0.0.29
+fastai==2.7.11
+gradio==3.20.1
+requests
