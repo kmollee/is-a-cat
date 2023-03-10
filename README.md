@@ -38,3 +38,7 @@ python ./train_model.py
 ```
 python ./app.py
 ```
+
+## Demo
+
+[is-a-cat](https://huggingface.co/spaces/kmollee/is-cat)
